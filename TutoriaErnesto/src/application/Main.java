@@ -1,4 +1,9 @@
 package application;
+/**
+ * 
+ * @author juanc
+ * @see Controlador
+ */
 	
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
